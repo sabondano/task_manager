@@ -1,0 +1,12 @@
+---
+tasks:
+- id: 1
+  title: This is task 1's title
+  description: THis is the description
+- id: 2
+  title: This is task 2's title
+  description: This is taks 2's description
+- id: 3
+  title: This is the 3rd task
+  description: This is the 3rd task's description
+total: 3
